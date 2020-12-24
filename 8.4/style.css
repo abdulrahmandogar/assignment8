@@ -1,0 +1,9 @@
+h1 {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 25% 0%;
+    text-decoration: underline;
+    color: blue;
+    font-family: fantasy;
+}
